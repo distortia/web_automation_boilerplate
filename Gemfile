@@ -1,0 +1,12 @@
+source 'https://rubygems.org'
+
+gem 'watir-webdriver', '~> 0.9.1'
+gem 'data_magic', '~> 0.22'
+gem 'page-object', '~> 1.1', '>= 1.1.1'
+gem 'cucumber', '~> 2.0'
+gem 'rspec-expectations'
+gem 'pusher'
+gem 'require_all'
+gem 'parallel_cucumber'
+gem 'allure-cucumber'
+gem 'syntax', '~> 1.2'

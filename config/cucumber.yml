@@ -1,0 +1,8 @@
+# config/cucumber.yml
+##YAML Template
+---
+default: --color -r features --tags ~@wip --format pretty
+
+format_allure: --format AllureCucumber::Formatter
+format_html: --format html --out report.html
+format_json: --format json --out report.json

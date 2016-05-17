@@ -1,0 +1,84 @@
+# Web Breakpoints
+mobile_small:
+  width: '335'
+
+# iPhone
+iphone_6_plus_portrait:
+  width: '414'
+  height: '736'
+iphone_6_plus_landscape:
+  width: '736'
+  height: '414'
+iphone_6_portrait:
+  width: '375'
+  height: '667'
+iphone_6_landscape:
+  width: '667'
+  height: '375'
+iphone_5_portrait:
+  width: '320 '
+  height: '568'
+iphone_5_landscape:
+  width: '568'
+  height: '320'
+iphone_4_portrait:
+  width: '320'
+  height: '480'
+iphone_4_landscape:
+  width: '480'
+  height: '320'
+ipad_retina_portrait:
+  width: '768'
+  height: '1024'
+ipad_retina_landscape:
+  width: '1024'
+  height: '768'
+
+# Nexus
+nexus_5_portrait: 
+  width: '540' 
+  height: '960'
+nexus_5_landscape: 
+  width: '960' 
+  height: '540'
+nexus_5x_portrait: 
+  width: '540' 
+  height: '960'
+nexus_5x_landscape: 
+  width: '960' 
+  height: '540'
+nexus_6_portrait: 
+  width: '720'
+  height: '1325'
+nexus_6_landscape: 
+  width: '1325' 
+  height: '720'
+nexus_6p_portrait: 
+  width: '720'
+  height: '1325'
+nexus_6p_landscape:
+  width: '1325'
+  height: '720'
+
+# Samsung
+note_4_portrait:
+  width: '720'
+  height: '1280'
+note_4_landscape:
+  width: '1280'
+  height: '720'
+s4_portait:
+  width: '360'
+  height: '640'
+s5_portrait:
+  width: '540'
+  height: '960'
+s5_landscape:
+  width: '960'
+  height: '540'
+s6_portrait:
+  width: '720'
+  height: '1280'
+s6_landscape:
+  width: '1280'
+  height: '720'
